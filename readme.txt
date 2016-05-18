@@ -1,4 +1,4 @@
-=== Plugin Updation Date ===
+===  Plugin Modification Date ===
 Contributors: kiranpatil353 , clarionwpdeveloper
 Tags: Plugin Update date, plugin modify date, update date , modification date, wordpress plugin update 
 Requires at least: 3.0.1
