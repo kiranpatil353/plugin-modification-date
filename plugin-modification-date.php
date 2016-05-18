@@ -1,6 +1,6 @@
 <?php
 /*
- * Plugin Name: Plugin Updation Date
+ * Plugin Name: Plugin Modification Date
  * Description: Displays Plugin Updation time. Useful when you have multiple plugins, and you are not sure which plugin is last modified.
  * Version: 1.0
  * Author: kiranpatil353, clarionwpdeveloper
